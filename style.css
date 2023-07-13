@@ -1,0 +1,25 @@
+#HomeFunFacts{
+    background-color: white;
+}
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:aliceblue;
+}
+.menu{
+    display:inline-block
+}
+#verb{
+    position:relative;right:200px;
+}
+#name{
+    position:relative;left:250px;
+}
+.col{
+    background-color: brown;
+}
+.line{
+    margin-left:300px;
+}
+
+
